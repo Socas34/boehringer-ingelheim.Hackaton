@@ -1,0 +1,6 @@
+venv/ #Archivo de librerias de backend
+.vscode/
+.idea/
+.gitkraken/
+.env
+__pycache__/
